@@ -1,7 +1,7 @@
 //Will move to project and development likely
 import java.util.Arrays;
 import java.util.Random;
-public class Raffle {
+public class raffle {
 
 public static void main(String[] args) {
        String raffleNameList[] = {"Henry", "Rick"};
